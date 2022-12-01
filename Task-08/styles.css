@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  background-color: #1a2a4bbb;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 4px 0 #DA0463;
+
+}
+.set {
+  margin: 10% auto;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #393a3b;
+  font-size: 4pc;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+ .drum:hover{
+    outline: none;
+  border: 10px solid #393a3b;
+  font-size: 4pc;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+text-align:center;
+  font-weight: 900;
+  color:brown;
+  text-shadow: 3px 1px #2c2d2e6e;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
