@@ -1,0 +1,13 @@
+/home/yaswanth/web_s/target/debug/deps/quote-56f2ffb64eba8f31.rmeta: /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/lib.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/ext.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/format.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/ident_fragment.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/to_tokens.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/runtime.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/spanned.rs
+
+/home/yaswanth/web_s/target/debug/deps/libquote-56f2ffb64eba8f31.rlib: /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/lib.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/ext.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/format.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/ident_fragment.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/to_tokens.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/runtime.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/spanned.rs
+
+/home/yaswanth/web_s/target/debug/deps/quote-56f2ffb64eba8f31.d: /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/lib.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/ext.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/format.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/ident_fragment.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/to_tokens.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/runtime.rs /home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/spanned.rs
+
+/home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/lib.rs:
+/home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/ext.rs:
+/home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/format.rs:
+/home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/ident_fragment.rs:
+/home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/to_tokens.rs:
+/home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/runtime.rs:
+/home/yaswanth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.22/src/spanned.rs:
