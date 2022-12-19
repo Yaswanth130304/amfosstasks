@@ -1,0 +1,13 @@
+d={}
+a, b=map(int,input().split())
+for i in range(b):
+    c, e=input().split()
+    d[c]=e
+e=input().split()
+l=[]
+for i in range(len(e)):
+    if len(e[i])>len(d[e[i]]):
+        l.append(d[e[i]])
+    else:
+        l.append(e[i])
+print(*l)

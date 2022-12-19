@@ -1,0 +1,18 @@
+n = int(input())
+a = list(map(int,input().split()))
+b=a.count(1)
+c=a.count(2)
+d=a.count(3)
+e=a.count(4)
+f=0
+if(d>=b):
+    f=f+d
+else:
+    b=b-d
+    f=f+d
+c=c*2+b
+if(c%4==0):
+    f=f+(c//4)
+else:
+    f=f+((c//4)+1)
+print(f+e)

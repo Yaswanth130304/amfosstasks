@@ -1,0 +1,37 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+#include <iostream>
+
+using namespace std;
+long long int b=0;
+void shrink(long long int a){
+    long long int n=0;
+    if(a>9){
+        while(a!=0){
+            n=n+(a%10);
+            a=a/10;
+        }
+        b=b+1;
+        a=n;
+        return shrink(a);
+    }
+    else{
+        cout << b;
+    }
+}
+            
+int main()
+{
+    long long int n;
+    cin >> n;
+    shrink(n);
+}
+           
+            
+            
+
+

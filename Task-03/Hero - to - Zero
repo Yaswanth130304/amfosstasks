@@ -1,0 +1,9 @@
+for _ in range(int(input())):
+    n=int(input())
+    a=list(map(int,input().split()))
+    if(len(a)==len(set(a)) and a.count(0)==0):
+        print(len(a)+1)
+    elif(len(a)!=len(set(a)) and a.count(0)==0):
+        print(len(a))
+    else:
+        print(len(a)-a.count(0))
