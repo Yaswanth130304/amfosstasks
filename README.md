@@ -5,7 +5,7 @@ amFOSS Tasks submission by R.Yaswanth - CSE C S3 2021.
 
 | *Task* | *Description* | *Status* |
 | --- | --- | --- |
-00</a> | Install Ubuntu 20.04 | Completed |
+| <a href="https://github.com/Yaswanth130304/amfosstasks/tree/main/Task-00">Task-00</a> | Install Ubuntu 20.04 | Completed |
 | <a href="https://github.com/Yaswanth130304/amfosstasks/tree/main/Task-01">Task-01</a> | Star amFOSS Repos | Completed |
 | <a href="https://github.com/Yaswanth130304/amfosstasks/tree/main/Task-02">Task-02</a> | Terminal Hunt | Completed |
 | <a href="https://github.com/Yaswanth130304/amfosstasks/tree/main/Task-03">Task-03</a> | Programming| Completed 4problems |
