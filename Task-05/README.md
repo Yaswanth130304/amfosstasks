@@ -20,6 +20,6 @@
 4. - Since we store group of messages I used msg[] of byte type
 5. - In main function Start() was changed to StartClient() 
    
-
+![Screenshot from 2022-12-20 21-38-18](https://user-images.githubusercontent.com/92038378/208714184-c93466df-98d4-42c4-b6af-647b36ceb2bc.png)
 
 
