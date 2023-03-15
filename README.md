@@ -8,7 +8,7 @@ amFOSS Tasks submission by R.Yaswanth - CSE C S3 2021.
 | <a href="https://github.com/Yaswanth130304/amfosstasks/tree/main/Task-00">Task-00</a> | Install Ubuntu 20.04 | Completed |
 | <a href="https://github.com/Yaswanth130304/amfosstasks/tree/main/Task-01">Task-01</a> | Star amFOSS Repos | Completed |
 | <a href="https://github.com/Yaswanth130304/amfosstasks/tree/main/Task-02">Task-02</a> | Terminal Hunt | Completed |
-| <a href="https://github.com/Yaswanth130304/amfosstasks/tree/main/Task-03">Task-03</a> | Programming| Completed 4problems |
+| <a href="https://github.com/Yaswanth130304/amfosstasks/tree/main/Task-03">Task-03</a> | Programming| Completed 5problems |
 | <a href="https://github.com/Yaswanth130304/amfosstasks/tree/main/task-04">Task-04</a> | Cine Bot | Completed |
 | <a href="https://github.com/Yaswanth130304/amfosstasks/tree/main/Task-05">Task-05</a> | Find The Bug  | Completed |
 | <a href="https://github.com/Yaswanth130304/amfosstasks/tree/main/Task-08">Task-08</a> | Internet Explorer | Completed |
